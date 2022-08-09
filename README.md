@@ -30,12 +30,10 @@
   <summary><b>Estatísticas do Github</b></summary>
   <br/>
   <div align="left"> 
-     <a href="">
-      <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=sordix&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
-    </a>
-    <a href="">
-      <img width="330px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sordix&layout=compact&theme=tokyonight">
-    </a>  
+ <div>
+  <a href="https://github.com/sordix">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sordix&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sordix&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <br/>
 </details>
