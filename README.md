@@ -1,11 +1,11 @@
-## Prazer sou o Sordi, desenvolvedor web!
+## Rafael Sordi
 
 - 🔭 Hoje trabalho com front-end!
 - 🌱 Estudando JavaScript, React, Ts e outras linguagens!
 - 💬 Fale comigo: skz#1708
 
 
-### Ferramentas e Tecnologias
+### <em>Ferramentas e Tecnologias</em>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="skx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
