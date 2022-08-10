@@ -34,7 +34,7 @@
       <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=sordix&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     </a>
     <a href="https://github.com/sordix">
-      <img width="330px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sordix&layout=compact&langs_count=7&theme=midnight-purple">
+      <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sordix&layout=compact&langs_count=7&theme=midnight-purple">
     </a>  
 </div>
 <br/>
