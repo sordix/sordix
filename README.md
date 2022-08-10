@@ -4,6 +4,9 @@
 - 🌱 Estudando JavaScript, React, Ts e outras linguagens!
 - 💬 Fale comigo: skz#1708
 
+
+### Ferramentas e Tecnologias
+
 <div style="display: inline_block"><br>
   <img align="center" alt="skx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="skx-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
