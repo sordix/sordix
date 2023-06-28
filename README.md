@@ -15,7 +15,7 @@
   <img align="center" alt="skx-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="skx-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="skx-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="skx-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/992555505002217485/1006677752059011173/Code_typing-bro.png">
+  <img align="right" alt="skx-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/838827148143493150/1123651035731337349/Code_typing-bro.png">
 </div>
   
   
@@ -23,7 +23,7 @@
  
 <div> 
   <a href="https://instagram.com/sordii___" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafafpss" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ 	<a href="[https://www.twitch.tv/rafafpss](https://www.twitch.tv/skzzfpss)" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/eEFPcXdcxR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "joezinhoooo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
