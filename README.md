@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com front-end!
 - 🌱 Estudando JavaScript, React, Ts e outras linguagens!
-- 💬 Fale comigo: skz#1708
+- 💬 Fale comigo: skzzzzzz (discord)
 
 
 ### <em>Ferramentas e Tecnologias</em>
